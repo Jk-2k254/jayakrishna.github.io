@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Jayakrishna Devangam | Automation Consultant</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<!-- ===== NAVIGATION ===== -->
+<nav>
+    <div class="container nav-container">
+        <h2 class="logo">JD</h2>
+        <ul>
+            <li><a href="#about">About</a></li>
+            <li><a href="#skills">Skills</a></li>
+            <li><a href="#experience">Experience</a></li>
+            <li><a href="#projects">Projects</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+
+<!-- ===== HERO SECTION ===== -->
+<section class="hero">
+    <div class="container">
+        <h1>Jayakrishna Devangam</h1>
+        <h3>Automation Consultant | UiPath Specialist</h3>
+        <p>
+            Designing scalable enterprise RPA solutions using REFramework,
+            Queue-based architecture, and API integrations.
+        </p>
+
+        <div class="buttons">
+            <a href="assets/resume.pdf" class="btn" target="_blank">Download Resume</a>
+            <a href="https://www.linkedin.com/" class="btn-outline" target="_blank">LinkedIn</a>
+        </div>
+    </div>
+</section>
+
+<!-- ===== ABOUT ===== -->
+<section id="about" class="section">
+    <div class="container">
+        <h2>About Me</h2>
+        <p>
+            Automation Consultant specializing in enterprise-grade UiPath solutions.
+            Experienced in building scalable queue-based architectures, intelligent
+            document processing systems, and secure API integrations.
+            Passionate about digital transformation and performance-driven automation.
+        </p>
+    </div>
+</section>
+
+<!-- ===== SKILLS ===== -->
+<section id="skills" class="section gray">
+    <div class="container">
+        <h2>Skills</h2>
+
+        <div class="grid">
+            <div>
+                <h4>RPA & Automation</h4>
+                <ul>
+                    <li>UiPath Studio</li>
+                    <li>REFramework</li>
+                    <li>Orchestrator</li>
+                    <li>Queues</li>
+                    <li>Selectors Optimization</li>
+                </ul>
+            </div>
+
+            <div>
+                <h4>Advanced Capabilities</h4>
+                <ul>
+                    <li>Intelligent Document Understanding</li>
+                    <li>REST API Integration</li>
+                    <li>OAuth Authentication</li>
+                    <li>Exception Handling Strategy</li>
+                </ul>
+            </div>
+
+            <div>
+                <h4>Testing & DevOps</h4>
+                <ul>
+                    <li>UiPath Test Suite</li>
+                    <li>Test Manager</li>
+                    <li>CI/CD</li>
+                    <li>Git</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</section>
+
+<!-- ===== EXPERIENCE ===== -->
+<section id="experience" class="section">
+    <div class="container">
+        <h2>Experience</h2>
+
+        <div class="card">
+            <h3>Automation Consultant</h3>
+            <p class="duration">Company Name | 2022 – Present</p>
+            <ul>
+                <li>Designed scalable queue-based RPA architecture.</li>
+                <li>Automated 50k+ monthly transactions.</li>
+                <li>Integrated enterprise systems via REST APIs.</li>
+                <li>Reduced manual effort by 60%.</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<!-- ===== PROJECTS ===== -->
+<section id="projects" class="section gray">
+    <div class="container">
+        <h2>Projects</h2>
+
+        <div class="card">
+            <h3>Intelligent Invoice Automation</h3>
+            <p><strong>Tech:</strong> UiPath | ML Extractor | Orchestrator</p>
+            <ul>
+                <li>Built Dispatcher-Performer model.</li>
+                <li>Processed 10k+ invoices per month.</li>
+                <li>Reduced processing time by 70%.</li>
+            </ul>
+        </div>
+
+        <div class="card">
+            <h3>High-Volume Queue Automation</h3>
+            <p><strong>Tech:</strong> UiPath | Orchestrator Queues</p>
+            <ul>
+                <li>Handled 100k+ transactions monthly.</li>
+                <li>Implemented retry logic & SLA monitoring.</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<!-- ===== CONTACT ===== -->
+<section id="contact" class="section">
+    <div class="container">
+        <h2>Contact</h2>
+        <p>Email: your.email@example.com</p>
+        <p>LinkedIn: linkedin.com/in/yourprofile</p>
+        <p>GitHub: github.com/yourusername</p>
+    </div>
+</section>
+
+<footer>
+    <p>© 2026 Jayakrishna Devangam. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
